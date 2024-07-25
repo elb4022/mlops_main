@@ -1,0 +1,4 @@
+Collecting fsspec
+  Using cached fsspec-2023.1.0-py3-none-any.whl (143 kB)
+Installing collected packages: fsspec
+Successfully installed fsspec-2023.1.0
